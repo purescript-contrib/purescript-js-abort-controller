@@ -1,0 +1,14 @@
+.*
+!.gitignore
+!.github
+!.editorconfig
+!.tidyrc.json
+!.eslintrc.json
+
+output
+generated-docs
+
+node_modules
+*.lock
+package-lock.json
+bower_components
