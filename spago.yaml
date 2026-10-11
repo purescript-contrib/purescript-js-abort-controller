@@ -1,0 +1,20 @@
+package:
+  name: js-abort-controller
+  description: PureScript library for native JavaScript timers
+  publish:
+    version: 1.0.1
+    license: MIT
+    location:
+      githubOwner: purescript-contrib
+      githubRepo: purescript-js-abort-controller
+  build:
+    strict: true
+  dependencies:
+    - effect: ">=4.0.0 <5.0.0"
+    - foreign: ">=7.0.0 <8.0.0"
+    - maybe: ">=6.0.0 <7.0.0"
+    - nullable: ">=6.0.0 <7.0.0"
+    - prelude: ">=6.0.1 <7.0.0"
+workspace:
+  packageSet:
+    registry: 81.4.0

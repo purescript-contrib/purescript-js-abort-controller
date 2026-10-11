@@ -12,6 +12,8 @@ Bugfixes:
 
 Other improvements:
 
+- Migrate to registry-backed Spago 1.0 and update repository tooling.
+
 ## [v1.0.0](https://github.com/purescript-contrib/purescript-js-abort-controller/releases/tag/v1.0.0) - 2022-01-06
 
 - Initial release
